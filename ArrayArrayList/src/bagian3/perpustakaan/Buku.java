@@ -1,8 +1,6 @@
 
 package bagian3.perpustakaan;
 
-import java.util.ArrayList;
-
 public class Buku {
     private String judul;
     private String penulis;
