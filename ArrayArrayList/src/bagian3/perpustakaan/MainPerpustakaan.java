@@ -3,10 +3,9 @@ package bagian3.perpustakaan;
 
 
 public class MainPerpustakaan {
+   
     public static void main(String[] args) {
-        
-        System.out.println("=== PROGRAM MULTI-CLASS PERPUSTAKAAN ===");
-        
+        System.out.println("=== LATIHAN MANDIRI MULTI-CLASS PERPUSTAKAAN ===");
         Perpustakaan perpus = new Perpustakaan();
 
         System.out.println("--- Menambah Buku ke Koleksi ---");
