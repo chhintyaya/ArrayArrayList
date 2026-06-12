@@ -8,9 +8,9 @@ public class LatihanMandiri3 {
         int genap = 0;
         
         for (int a : angka) {
-            if (a % 2 == 0) {
-                genap++;
-            }
+            if (a % 2 == 0) genap++;
+               
+            
         }
         System.out.println("=== HITUNG BILANGAN GENAP ===");
         System.out.println("Jumlah genap: " + genap); 
